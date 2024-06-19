@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/file/d/1yhh4Ya1J-YFe047Bt2Q_TrNVTWEGdsKb/view?usp=drive_link)]
 <h1 align="center">Hi 👋, I'm Sarathy B</h1>
 <h3 align="center">Student @ KIT(Computer Science And Business Systems)</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
