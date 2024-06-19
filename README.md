@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sarathy B</h1>
 <h3 align="center">Student @ KIT(Computer Science And Business Systems)</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathy2903" alt="sarathy2903" /></a> </p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathy2903&label=Profile%20views&color=0e75b6&style=flat" alt="sarathy2903" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathy2903" alt="sarathy2903" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Power bi, Full stack, Java, etc.**
 
@@ -15,6 +15,9 @@
 - 📫 How to reach me **kitcbe.25.21bcb047@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LVr6w6r8ddxMZ2QGh-2JvNEYfl8SVIjo/view?usp=drive_link](https://drive.google.com/file/d/1LVr6w6r8ddxMZ2QGh-2JvNEYfl8SVIjo/view?usp=drive_link)
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathy2903" alt="sarathy2903" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathy2903&label=Profile%20views&color=0e75b6&style=flat" alt="sarathy2903" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
