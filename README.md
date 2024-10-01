@@ -2,7 +2,7 @@
 <h3 align="center">Student @ KIT(Computer Science And Business Systems)</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🌱 I’m currently learning **Power bi, Full stack, Java, etc.**
+- 🌱 I’m currently learning **Devops, Full stack, Java, etc.**
 
 - 👨‍💻 All of my projects are available at [https://sarathyb.vercel.app/](https://sarathyb.vercel.app/)
 
