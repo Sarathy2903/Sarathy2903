@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarathy-b-106206252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarathy-b-106206252" height="30" width="40" /></a>
-<a href="https://instagram.com/2k_kutty_paiyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2k_kutty_paiyan_" height="30" width="40" /></a>
+<a href="[https://instagram.com/2k_kutty_paiyan_](https://www.instagram.com/__s.a.r.a.t.h.y__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2k_kutty_paiyan_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kit2521bcb47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kit2521bcb47" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sarathy_csbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sarathy_csbs" height="30" width="40" /></a>
 </p>
