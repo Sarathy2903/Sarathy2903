@@ -1,83 +1,126 @@
-<!-- ===================== Animated Header ===================== -->
+<!-- =============================== -->
+<!--  SARATHY2903 | GITHUB PROFILE  -->
+<!-- =============================== -->
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Sarathy%20B&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sarathy%20Balan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;Full+Stack+Python+Developer;AWS+Cloud+Enthusiast;AI+%26+ML+Beginner;Always+Learning+New+Things&center=true&width=650&height=45">
 </p>
 
-<!-- ===================== Typing Animation ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineer;AWS+Cloud+Enthusiast;Python+Developer;Web+Developer;AI%2FML+Beginner" />
+  <img src="https://komarev.com/ghpvc/?username=Sarathy2903&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- ☁️ Knowledge of **Cloud Computing (AWS)**
-- 🐍 Strong in **Python**
-- 🌐 Frontend: **HTML, CSS, JavaScript**
-- 🤖 Basic understanding of **AI / Machine Learning**
-- 🚀 Passionate about scalable & real-world applications
+Name: Sarathy B  
+Role: Aspiring Software Developer  
+Education: B.Tech – CSBS (2021 – 2025)  
+Location: Krishnagiri, Tamil Nadu, India  
+Skills: Python | AWS | Web | AI/ML  
+Goal: Entry-Level Developer / Cloud Role  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,aws,git,github,linux,vscode,tensorflow,sklearn" />
 </p>
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+---
+
+## ⚡ What I Do
+
+- 🔹 Build Full Stack Python Applications  
+- 🔹 Deploy projects on AWS Cloud  
+- 🔹 Learn & apply AI / Machine Learning  
+- 🔹 Work on real-time industry projects  
+- 🔹 Constantly upskill 🚀  
+
+---
+
+## 📊 GitHub Stats (Auto Dark / Light)
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Sarathy2903&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sarathy2903&show_icons=true&theme=tokyonight" height="170" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sarathy2903&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarathy2903&theme=tokyonight" height="170" />
+  </picture>
 </p>
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathy2903&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathy2903&layout=compact&theme=tokyonight" />
+  </picture>
 </p>
 
-### 🤖 AI / ML (Basics)
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Basics-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Basics-purple?style=for-the-badge" />
+---
+
+## 🐍 Contribution Snake (Trending 🔥)
+
+<p align="center">
+  <img src="https://github.com/Sarathy2903/Sarathy2903/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 💼 Experience
+
+Software Developer Intern  
+Pumo Technovation Pvt. Ltd  
+Location: Vadapalani, Chennai  
+Duration: Aug 2025 – Present  
+
+- Full Stack Python development  
+- AWS cloud deployment  
+- Real-time industry projects  
+- AI / ML fundamentals  
+
+---
+
+## 📂 Projects
+
+Updating soon…  
+- Stock Price Predictor 📈  
+- Web Applications 🌐  
+- Cloud Deployments ☁️  
 
 ---
 
 ## 📄 Resume
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1YKAySeE1gI2Ohnj2KTHkY2D0xS4__36g/view?usp=drive_link" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-success?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
-</p>
+📥 Download Resume  
+https://drive.google.com/
 
 ---
 
-## 🚧 Projects & Interests
-
-- 📈 Stock Prediction App (Python + ML)
-- 🌐 Streamlit Web Applications
-- ☁️ AWS Cloud Deployments
-- 🤖 AI-powered Automation Tools
-
----
-
-## 📫 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarathy2903/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sarathy%20Balan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:sarathybalan237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sarathybalan237@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sarathy2903/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ===================== Footer ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=60&section=footer&text=Thanks%20for%20Visiting!&fontSize=18&fontColor=ffffff" />
-</p>
+<h3 align="center">
+  🚀 Build. Learn. Deploy. Repeat. 🔥
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
