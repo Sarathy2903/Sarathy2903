@@ -43,7 +43,7 @@
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding GIF" width="280"
-src="https://pixabay.com/videos/download/video-146100_medium.mp4" />
+src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzNsM3pwMjZqN2tvaWRieHM3aWJldXR2bm90eDcxbHk2NGpvcjUzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp" />
 
 ```yaml
 Name     : Sarathy B
