@@ -6,6 +6,7 @@
 
 <h1 align="center">👋 I'm Sarathy B</h1>
 <h3 align="center">Software Trainee | Frontend Developer | Python | Cloud Computing (AWS) | Data Science Learner</h3>
+<p><b>My Profile:</b> https://sarathy2903.github.io/Sarathy_portfolio/</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarathy2903">
