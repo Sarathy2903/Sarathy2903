@@ -42,7 +42,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="260" height="125"
+<img align="right" alt="Coding GIF" width="260" height="130"
 src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzNsM3pwMjZqN2tvaWRieHM3aWJldXR2bm90eDcxbHk2NGpvcjUzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp" />
 
 
