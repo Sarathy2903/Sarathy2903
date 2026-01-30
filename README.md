@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
 </p>
+
+---
+
 ## 🧠 Skills & Tools
 
 <p align="center">
@@ -39,9 +42,12 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding GIF" width="280"
+src="https://pixabay.com/videos/download/video-146100_medium.mp4" />
+
 ```yaml
-Name        : Sarathy B
-Role        : Software Trainee
-Skills      : Frontend Development, Python
-Location    : Chennai, Tamil Nadu, India
-Status      : Open to Entry-Level Opportunities
+Name     : Sarathy B
+Role     : Software Trainee
+Focus    : Frontend Development & Python
+Location : Chennai, Tamil Nadu, India
+Status   : Open to Entry-Level Opportunities
